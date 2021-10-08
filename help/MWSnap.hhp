@@ -1,0 +1,55 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=MWSnap.chm
+Contents file=toc.hhc
+Default Window=main
+Default topic=index.htm
+Display compile progress=No
+Full text search stop list file=stoplist.stp
+Full-text search=Yes
+Index file=index.hhk
+Language=0x409 Angielski (Stany Zjednoczone)
+Title=MWSnap
+
+[WINDOWS]
+main="MWSnap","toc.hhc","index.hhk","index.htm","index.htm",,,,,0x520,,0x3054,[0,0,800,600],,,,,,,0
+
+
+[FILES]
+index.htm
+sysreq.htm
+contact.htm
+ui.htm
+uimenus.htm
+uitoolbars.htm
+uistatusbar.htm
+uipreviewpanel.htm
+uicapturepanel.htm
+ui_picviewer_panel.htm
+dlgsettings.htm
+dlgprint.htm
+dlghotkey.htm
+dlgzoom.htm
+dlgruler.htm
+dlg_clopick.htm
+dlg_wininfo.htm
+snapping.htm
+faq.htm
+news.htm
+dlgsettings_sounds.htm
+dlgsettings_appearance.htm
+dlgsettings_autosaving.htm
+dlgsettings_fixedsizes.htm
+dlgsettings_general.htm
+dlgsettings_snapping.htm
+mnu_file.htm
+mnu_edit.htm
+mnu_capture.htm
+mnu_view.htm
+mnu_tools.htm
+mnu_help.htm
+donate.htm
+xlate.html
+
+[INFOTYPES]
+

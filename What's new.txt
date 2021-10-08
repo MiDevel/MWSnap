@@ -1,0 +1,94 @@
+What's new in MWSnap
+
+3.00.0.74, 06 Jul 2002
+- Release version.
+
+3.00.0.73 Beta RC2, 03 Jul 2002
+- Repaired and restored the "Start minimized" option.
+- A new option "Minimize on Close".
+- Clicking the icon in the tray restores minimized program and minimizes the restored program.
+
+3.00.0.71 Beta RC1, 28 Jun 2002
+- A new color picker tool.
+- More sound effects: confirmations, clipboard actions
+- Preview panel can be hatched to improve the image visibility.
+- A new configuration option - restore MWSnap after snapping.
+- A new configuration option - always show program icon in tray.
+- All dialog boxes save and restore their last screen positions.
+- Updated program documentation.
+- An error with the preview window appearing on the captured images removed.
+- Repaired errors with minimizing and restoring.
+- Repaired bug with repeating the last capture.
+- Minor bugs removed.
+- The option "Start minimized" has been temporarily removed!
+
+3.00.0.65 Beta, 18 Jun 2002
+- An option for automatic checking if a new version of the program is available.
+- A new version of the ruler tool, featuring higher accuracy, dynamic readings, and a bi-directional scale.
+- Accept files dropped on the program window.
+- Many minor bugs and translation problems removed.
+- Adding mouse cursor pointers to snapped images.
+- Adding configurable frames to snapped images.
+- Multilevel configurable undo and redo.
+- Improved capturing engine.
+- Color picker - F4 key opens a dialog box with color details and several popular color notations (RGB, HTML, Delphi, and System).
+- A new Window info tool, showing dynamically details of a window below the cursor.
+- Ruler, Zoom and Window info tools are available in the local menu of the program's icon in the system tray.
+- Ruler, Zoom and Window info tools can be invoked using system-wide hotkeys.
+- Repaired bug in saving transparent GIFs.
+- The ruler tool no longer causes MWSnap window to minimize.
+- Dialog windows restore their last positions on the screen.
+- Reorganized menus and toolbars.
+- Minor bugs removed.
+
+2.60.0.56 Beta, 22 May 2002
+- Auto-printing (shortcut: <Ctrl+Alt+P>).
+- Opening picture files, with support for gif, png, jpg, bmp, ico, emf and wmf formats.
+- Picture Viewer panel, with options for opening, starting, renaming and deleting pictures.
+- Pasting images from the clipboard.
+- New Zoom in/out tools.
+- Zoom step menu.
+- Numeric pad '+' and '-' keys perform zooming in/out.
+- Ruler tool - right-clicking the ruler pops up a local menu.
+- Auto-saving shortcut remapped to <Ctrl+Alt+S>.
+- Removed the obsolete 'stretch preview' option.
+- Repaired bug with repeating of the last capture.
+- Other minor bugs removed.
+
+2.50.0.50 Beta, 04 Apr 2002
+- Support for PNG images format.
+- Improved color reduction algorithms in saved .bmp and .gif images.
+- Repaired bug that could cause the marking rectangle to go into the snapped image.
+- Support for multiple versions of the same language.
+- Many minor improvements.
+
+2.20.0.48 Beta, 27 Mar 2002
+- Possibility to translate the user interface to any number of languages.
+- Window snapping - possibility to capture child windows.
+- Configurable sounds.
+- Configurable displaying of the snap preview window.
+- Printing - possibility to specify the count of copies.
+- Windows XP Themes Manager compatibility.
+- Enhanced visibility of the selection window.
+- Improved error handling.
+- Repaired bug causing settings not to be saved.
+- Repaired bug with rotating snapped images.
+- Corrected snapping of maximized windows.
+
+v.2.00.0.40, 27 Nov 2001
+- A bug removed causing MWSnap in some cases to crash at startup.
+
+v.2.00.0.39, 18 Nov 2001
+- Auto-saving after making a snap.
+- Printing with optional scaling.
+- Basic transformations: flipping and rotating.
+- Show/hide preview window (F6 while making a capture).
+- Preview box, zoom tool - an additional marker showing an exact cursor location.
+- Minimize to system tray.
+- Auto start with Windows.
+- Start in minimized mode.
+- Program documentation.
+- Ruler with scale markings on both sides.
+- Application title bar shows the name of the last saved image.
+- Other minor improvements.
+

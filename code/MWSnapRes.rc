@@ -1,0 +1,8 @@
+// sounds
+SND_OK        WAV    Wav\Ok.wav
+SND_ERROR     WAV    Wav\Error.wav
+SND_SNAP      WAV    Wav\Snap.wav
+SND_SAVE      WAV    Wav\Save.wav
+SND_CLIPCOPY  WAV    Wav\ClipCopy.wav
+SND_CLIPPASTE WAV    Wav\ClipPaste.wav
+

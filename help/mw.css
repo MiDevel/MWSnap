@@ -1,0 +1,82 @@
+BODY, TD {
+	background: #FFFACD;
+	color : Black;
+	font-family : Arial, sans-serif;
+	font-size: 14px;
+	}
+
+H1 {
+	font-size: 180%;
+	color : Maroon;
+	font-weight : bold;
+	text-align : center;
+	margin-top : 10px;
+	background : #FFDEAD;
+	padding-bottom : 8px;
+	padding-top : 8px;
+}
+
+H2 {
+	font-size: 140%;
+	color : Maroon;
+	margin-top : 15px;
+}
+
+H3 {
+	font-size: 120%;
+	color : Maroon;
+	}
+
+.warning {
+	background: Yellow;
+	color : Red;
+	font-weight : bold;
+	margin-left : 20px;
+	margin-right : 20px;
+	padding-bottom : 5px;
+	padding-top : 5px;
+	padding-left : 5px;
+	padding-right : 5px;
+	border : dotted Red;
+	text-align : center;
+}
+
+A:LINK {
+	text-decoration: underline;
+	color: Green;
+}
+
+
+A:VISITED {
+	text-decoration: underline;
+	color: Olive;
+}
+
+A:Hover {
+	text-decoration: underline;
+	color: Red;
+}
+
+HR {
+	color: Black;
+	height: 1pt;
+}
+
+P.nav-bar1 {
+	background-color: #FFE4B5;
+	border: medium solid #E9967A;
+	padding: 1%;
+	text-align: center
+}
+
+P.nav-bar1 A:link {
+	color: Maroon;
+	text-decoration: underline;
+}
+
+P.nav-bar1 A:hover {
+	background-color: Maroon;
+	color: White;
+	text-decoration: none
+}
+

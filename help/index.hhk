@@ -1,0 +1,628 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value=".ini">
+		<param name="Name" value="Adding new language versions">
+		<param name="Local" value="xlate.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value=".vaw">
+		<param name="Name" value="Settings: sound">
+		<param name="Local" value="dlgsettings_sounds.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Adding cursor images">
+		<param name="Name" value="Menu ">
+		<param name="Local" value="mnu_edit.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Adding fixed sizes">
+		<param name="Name" value="Preview panel">
+		<param name="Local" value="uipreviewpanel.htm">
+		<param name="Name" value="Menu ">
+		<param name="Local" value="mnu_capture.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Adding frames">
+		<param name="Name" value="Menu ">
+		<param name="Local" value="mnu_edit.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Area capturing">
+		<param name="Name" value="Menu ">
+		<param name="Local" value="mnu_capture.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Author">
+		<param name="Name" value="Contacting the author">
+		<param name="Local" value="contact.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Auto-printing">
+		<param name="Name" value="Settings: snapping">
+		<param name="Local" value="dlgsettings_snapping.htm">
+		<param name="Name" value="Menu ">
+		<param name="Local" value="mnu_tools.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Auto-saving">
+		<param name="Name" value="Settings: auto-saving">
+		<param name="Local" value="dlgsettings_autosaving.htm">
+		<param name="Name" value="Menu ">
+		<param name="Local" value="mnu_tools.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Auto-starting with Windows">
+		<param name="Name" value="Settings: general">
+		<param name="Local" value="dlgsettings_general.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Background color">
+		<param name="Name" value="Settings: appearance">
+		<param name="Local" value="dlgsettings_appearance.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Background style">
+		<param name="Name" value="Settings: appearance">
+		<param name="Local" value="dlgsettings_appearance.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Beta-testing">
+		<param name="Name" value="Contacting the author">
+		<param name="Local" value="contact.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Buttonizing images">
+		<param name="Name" value="Menu ">
+		<param name="Local" value="mnu_edit.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Capture panel">
+		<param name="Name" value="Capture panel">
+		<param name="Local" value="uicapturepanel.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Capturing menus">
+		<param name="Name" value="Frequently Asked Questions">
+		<param name="Local" value="faq.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Capturing modes">
+		<param name="Name" value="Performing snaps">
+		<param name="Local" value="snapping.htm">
+		<param name="Name" value="Capture panel">
+		<param name="Local" value="uicapturepanel.htm">
+		<param name="Name" value="Menu ">
+		<param name="Local" value="mnu_capture.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Checking for new versions">
+		<param name="Name" value="Menu ">
+		<param name="Local" value="mnu_help.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Class name">
+		<param name="Name" value="Tools: window info">
+		<param name="Local" value="dlg_wininfo.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Clipboard">
+		<param name="Name" value="Settings: snapping">
+		<param name="Local" value="dlgsettings_snapping.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Close minimizes">
+		<param name="Name" value="Settings: general">
+		<param name="Local" value="dlgsettings_general.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Color picker">
+		<param name="Name" value="Color picker tool">
+		<param name="Local" value="dlg_clopick.htm">
+		<param name="Name" value="Menu ">
+		<param name="Local" value="mnu_tools.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Color settings">
+		<param name="Name" value="Settings: appearance">
+		<param name="Local" value="dlgsettings_appearance.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Command line">
+		<param name="Name" value="Frequently Asked Questions">
+		<param name="Local" value="faq.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Confirming files overwriting">
+		<param name="Name" value="Settings: general">
+		<param name="Local" value="dlgsettings_general.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Conflicting hot keys">
+		<param name="Name" value="Hot keys">
+		<param name="Local" value="dlghotkey.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Contacting the author">
+		<param name="Name" value="Contacting the author">
+		<param name="Local" value="contact.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Contents">
+		<param name="Name" value="MWSnap - Help">
+		<param name="Local" value="index.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Controls capturing">
+		<param name="Name" value="Menu ">
+		<param name="Local" value="mnu_capture.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Copy to clipboard">
+		<param name="Name" value="Menu ">
+		<param name="Local" value="mnu_edit.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Dates in filenames">
+		<param name="Name" value="Settings: auto-saving">
+		<param name="Local" value="dlgsettings_autosaving.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Delay before snapping">
+		<param name="Name" value="Settings: snapping">
+		<param name="Local" value="dlgsettings_snapping.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Deleting files">
+		<param name="Name" value="Picture viewer">
+		<param name="Local" value="ui_picviewer_panel.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Delphi color">
+		<param name="Name" value="Tools: color picker">
+		<param name="Local" value="dlg_clopick.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Desktop capturing">
+		<param name="Name" value="Menu ">
+		<param name="Local" value="mnu_capture.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Donations">
+		<param name="Name" value="Donate">
+		<param name="Local" value="donate.htm">
+		<param name="Name" value="Menu ">
+		<param name="Local" value="mnu_help.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="FAQ">
+		<param name="Name" value="Frequently Asked Questions">
+		<param name="Local" value="faq.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Features">
+		<param name="Name" value="MWSnap">
+		<param name="Local" value="index.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Fixed sizes">
+		<param name="Name" value="Settings: snapping">
+		<param name="Local" value="dlgsettings_snapping.htm">
+		<param name="Name" value="Menu ">
+		<param name="Local" value="mnu_capture.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Flipping images">
+		<param name="Name" value="Menu ">
+		<param name="Local" value="mnu_edit.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Footers">
+		<param name="Name" value="Printing">
+		<param name="Local" value="dlgprint.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Freeware">
+		<param name="Name" value="MWSnap">
+		<param name="Local" value="index.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Frequently Asked Questions">
+		<param name="Name" value="Frequently Asked Questions">
+		<param name="Local" value="faq.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Handles">
+		<param name="Name" value="Tools: window info">
+		<param name="Local" value="dlg_wininfo.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Hardware requirements">
+		<param name="Name" value="System requirements">
+		<param name="Local" value="sysreq.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Hatched background">
+		<param name="Name" value="Settings: appearance">
+		<param name="Local" value="dlgsettings_appearance.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Headers">
+		<param name="Name" value="Printing">
+		<param name="Local" value="dlgprint.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Help">
+		<param name="Name" value="Menu ">
+		<param name="Local" value="mnu_help.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Hiding before snapping">
+		<param name="Name" value="Settings: snapping">
+		<param name="Local" value="dlgsettings_snapping.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Hot keys">
+		<param name="Name" value="Hot keys">
+		<param name="Local" value="dlghotkey.htm">
+		<param name="Name" value="Frequently Asked Questions">
+		<param name="Local" value="faq.htm">
+		<param name="Name" value="Menu ">
+		<param name="Local" value="mnu_tools.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="HTML color">
+		<param name="Name" value="Tools: color picker">
+		<param name="Local" value="dlg_clopick.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Icon in tray">
+		<param name="Name" value="Settings: general">
+		<param name="Local" value="dlgsettings_general.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Image size">
+		<param name="Name" value="Status bar">
+		<param name="Local" value="uistatusbar.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Lang folder">
+		<param name="Name" value="Adding new language versions">
+		<param name="Local" value="xlate.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Language versions">
+		<param name="Name" value="Menu ">
+		<param name="Local" value="mnu_tools.htm">
+		<param name="Name" value="Adding new language versions">
+		<param name="Local" value="xlate.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Loupe">
+		<param name="Name" value="Tools: zoom">
+		<param name="Local" value="dlgzoom.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Measuring screen elements">
+		<param name="Name" value="Tools: ruler">
+		<param name="Local" value="dlgruler.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Menus">
+		<param name="Name" value="Menus">
+		<param name="Local" value="uimenus.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Menus capturing">
+		<param name="Name" value="Menu ">
+		<param name="Local" value="mnu_capture.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Minimizing to tray">
+		<param name="Name" value="Settings: general">
+		<param name="Local" value="dlgsettings_general.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Mirroring images">
+		<param name="Name" value="Preview panel">
+		<param name="Local" value="uipreviewpanel.htm">
+		<param name="Name" value="Menu ">
+		<param name="Local" value="mnu_edit.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="New versions">
+		<param name="Name" value="Menu ">
+		<param name="Local" value="mnu_help.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Numeric suffixes">
+		<param name="Name" value="Settings: auto-saving">
+		<param name="Local" value="dlgsettings_autosaving.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Opening pictures">
+		<param name="Name" value="Menu ">
+		<param name="Local" value="mnu_file.htm">
+		<param name="Name" value="Picture viewer">
+		<param name="Local" value="ui_picviewer_panel.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Page header, footer">
+		<param name="Name" value="Printing">
+		<param name="Local" value="dlgprint.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Paste from clipboard">
+		<param name="Name" value="Menu ">
+		<param name="Local" value="mnu_edit.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="PayPal">
+		<param name="Name" value="Donate">
+		<param name="Local" value="donate.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Picture viewer">
+		<param name="Name" value="Picture viewer">
+		<param name="Local" value="ui_picviewer_panel.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Preview panel">
+		<param name="Name" value="Preview panel">
+		<param name="Local" value="uipreviewpanel.htm">
+		<param name="Name" value="Settings: appearance">
+		<param name="Local" value="dlgsettings_appearance.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Preview window">
+		<param name="Name" value="Frequently Asked Questions">
+		<param name="Local" value="faq.htm">
+		<param name="Name" value="Settings: general">
+		<param name="Local" value="dlgsettings_general.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Printing">
+		<param name="Name" value="Printing">
+		<param name="Local" value="dlgprint.htm">
+		<param name="Name" value="Menu ">
+		<param name="Local" value="mnu_file.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Program configuration">
+		<param name="Name" value="Settings dialog box">
+		<param name="Local" value="dlgsettings.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Program features">
+		<param name="Name" value="MWSnap">
+		<param name="Local" value="index.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Program window">
+		<param name="Name" value="Program window">
+		<param name="Local" value="ui.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Prompting for filenames">
+		<param name="Name" value="Settings: auto-saving">
+		<param name="Local" value="dlgsettings_autosaving.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Redo">
+		<param name="Name" value="Menu ">
+		<param name="Local" value="mnu_edit.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Renaming files">
+		<param name="Name" value="Picture viewer">
+		<param name="Local" value="ui_picviewer_panel.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Repeating last capture">
+		<param name="Name" value="Menu ">
+		<param name="Local" value="mnu_capture.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Restoring after snapping">
+		<param name="Name" value="Settings: snapping">
+		<param name="Local" value="dlgsettings_snapping.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="RGB">
+		<param name="Name" value="Tools: color picker">
+		<param name="Local" value="dlg_clopick.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Rotating images">
+		<param name="Name" value="Preview panel">
+		<param name="Local" value="uipreviewpanel.htm">
+		<param name="Name" value="Menu ">
+		<param name="Local" value="mnu_edit.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Ruler tool">
+		<param name="Name" value="Tools: ruler">
+		<param name="Local" value="dlgruler.htm">
+		<param name="Name" value="Menu ">
+		<param name="Local" value="mnu_tools.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Saving date and time">
+		<param name="Name" value="Settings: auto-saving">
+		<param name="Local" value="dlgsettings_autosaving.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Saving pictures">
+		<param name="Name" value="Menu ">
+		<param name="Local" value="mnu_file.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Settings">
+		<param name="Name" value="Settings dialog box">
+		<param name="Local" value="dlgsettings.htm">
+		<param name="Name" value="Menu ">
+		<param name="Local" value="mnu_tools.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Shaded frames">
+		<param name="Name" value="Menu ">
+		<param name="Local" value="mnu_edit.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Simple frames">
+		<param name="Name" value="Menu ">
+		<param name="Local" value="mnu_edit.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Size of windows">
+		<param name="Name" value="Tools: window info">
+		<param name="Local" value="dlg_wininfo.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Software requirements">
+		<param name="Name" value="System requirements">
+		<param name="Local" value="sysreq.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Sounds">
+		<param name="Name" value="Settings: sound">
+		<param name="Local" value="dlgsettings_sounds.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Status bar">
+		<param name="Name" value="Status bar">
+		<param name="Local" value="uistatusbar.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Supporting the author">
+		<param name="Name" value="Donate">
+		<param name="Local" value="donate.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="System tray">
+		<param name="Name" value="Settings: general">
+		<param name="Local" value="dlgsettings_general.htm">
+		<param name="Name" value="Settings: snapping">
+		<param name="Local" value="dlgsettings_snapping.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="System-wide hot keys">
+		<param name="Name" value="Hot keys">
+		<param name="Local" value="dlghotkey.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Terminating the program">
+		<param name="Name" value="Menu ">
+		<param name="Local" value="mnu_file.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Text of windows">
+		<param name="Name" value="Tools: window info">
+		<param name="Local" value="dlg_wininfo.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Toolbars">
+		<param name="Name" value="System toolbar">
+		<param name="Local" value="uitoolbars.htm">
+		<param name="Name" value="Preview panel">
+		<param name="Local" value="uipreviewpanel.htm">
+		<param name="Name" value="Menu ">
+		<param name="Local" value="mnu_view.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Transforming images">
+		<param name="Name" value="Menu ">
+		<param name="Local" value="mnu_edit.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Translations">
+		<param name="Name" value="Adding new language versions">
+		<param name="Local" value="xlate.html">
+		<param name="Name" value="Menu ">
+		<param name="Local" value="mnu_tools.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Transparent GIFs">
+		<param name="Name" value="Frequently Asked Questions">
+		<param name="Local" value="faq.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Tray">
+		<param name="Name" value="Settings: general">
+		<param name="Local" value="dlgsettings_general.htm">
+		<param name="Name" value="Settings: snapping">
+		<param name="Local" value="dlgsettings_snapping.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Undo">
+		<param name="Name" value="Menu ">
+		<param name="Local" value="mnu_edit.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Undo stack size">
+		<param name="Name" value="Settings: general">
+		<param name="Local" value="dlgsettings_general.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="User interface">
+		<param name="Name" value="Program window">
+		<param name="Local" value="ui.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Viewing images">
+		<param name="Name" value="Picture viewer">
+		<param name="Local" value="ui_picviewer_panel.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Web page">
+		<param name="Name" value="Menu ">
+		<param name="Local" value="mnu_help.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="What's new">
+		<param name="Name" value="What's new">
+		<param name="Local" value="news.htm">
+		<param name="Name" value="What's new">
+		<param name="Local" value="news.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Window handle">
+		<param name="Name" value="Tools: window info">
+		<param name="Local" value="dlg_wininfo.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Window information tool">
+		<param name="Name" value="Tools: window info">
+		<param name="Local" value="dlg_wininfo.htm">
+		<param name="Name" value="Menu ">
+		<param name="Local" value="mnu_tools.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Windows capturing">
+		<param name="Name" value="Menu ">
+		<param name="Local" value="mnu_capture.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Zoom level">
+		<param name="Name" value="Status bar">
+		<param name="Local" value="uistatusbar.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Zoom tool">
+		<param name="Name" value="Tools: zoom">
+		<param name="Local" value="dlgzoom.htm">
+		<param name="Name" value="Menu ">
+		<param name="Local" value="mnu_tools.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Zooming">
+		<param name="Name" value="Menu ">
+		<param name="Local" value="mnu_view.htm">
+		</OBJECT>
+</UL>
+</BODY></HTML>

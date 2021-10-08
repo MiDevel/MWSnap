@@ -1,0 +1,153 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<title>Adding new language versions</title>
+<link rel="stylesheet" type="text/css" href="mw.css">
+</head>
+<body>
+
+<h1>Adding new language versions</h1>
+
+<p>The program offers support for custom language modules. To add your own module, please follow these
+simple steps.
+</p>
+
+<p>In the folder where the program is installed, open the \Lang folder and make a copy of the "English.ini" file, and name it according to the language you want to add.
+(for example
+&quot;German.ini&quot; or even better &quot;Deutsch.ini&quot; for a German module).
+Please don't change the file extension, it must remain .ini.
+</p>
+
+<p>Now open the file with a text editor like system Notepad, and translate the strings to the new language.
+Each string is represented in the form
+</p>
+
+<blockquote>
+
+<pre>name=contents</pre>
+
+</blockquote>
+
+<p>Please translate only the contents (the part after the &quot;=&quot; sign.)
+The name serves as a string identifier and must remain unchanged.
+</p>
+
+<p>Here is a small example:
+</p>
+
+<blockquote>
+
+<pre>frmMain.optRecordCopy.Caption=Duplicate record
+frmMain.optCatRename.Caption=Rename category
+rsDeleteRec=Delete current record?</pre>
+
+</blockquote>
+<p>The strings like &quot;frmMain.optRecordCopy.Caption&quot; are identifiers.
+Please translate only texts &quot;Duplicate record&quot;, &quot;Rename category&quot;,
+&quot;Delete current record?&quot; in this case.
+</p>
+
+<p>Make sure you don't exceed the length of the particular strings too much, if
+they appear within dialog boxes. All dialogs are designed with translation in
+mind so there is usually some extra space for longer translations, but be sure
+to check if your texts are not trimmed.
+</p>
+
+<h3>Special characters
+</h3>
+
+<p>In some texts several special characters can appear.
+</p>
+
+<h4>%s, %d
+</h4>
+
+<p>These are placeholders and will be expanded to values when the program runs.
+%s is a placeholder for a text and %d is a placeholder for a numerical value.
+Please leave placeholders in your translated version, just place them at the
+proper position.
+</p>
+
+<p>Examples:<br>
+&quot;Text [%s] was not found&quot; will be expanded at runtime for example to
+&quot;Text [e-mail] was not found&quot;<br>
+&quot;Count of records: %d&quot; will be expanded at runtime for example to
+&quot;Count of records: 243&quot;
+</p>
+
+<h4>&amp;
+</h4>
+
+<p>Hot key symbol. If the text being translated is a button's caption or a menu
+item, one of characters can be preceded with the hot key symbol. It will then
+automatically get underlined and will be selectable using the standard Windows
+&lt;Alt-character&gt; combination.
+</p>
+
+<p>Example:<br>
+&quot;&amp;Cancel&quot; will appear as &quot;<u>C</u>ancel&quot;, &lt;Alt-C&gt;
+will activate this button automatically.
+</p>
+
+<h4>*|*
+</h4>
+
+<p>This symbol stands for a line break (carriage return). It is used in long strings, for example in
+messages and warnings.
+</p>
+
+<p>Example:<br>
+rsFileXNotFound=File*|*[%s]*|*has not been found!
+</p>
+
+<h3>Country flags
+</h3>
+
+<p>After saving the file, you can supply a small 32 x 20 bitmap that represents your
+country. It will be displayed in the language selection window. In order to have
+the program combine the bitmap with the .ini file, it must have exactly the same filename (just with a .bmp extension).
+</p>
+
+<p>For example :<br>
+Dutch.ini (language module)<br>
+Dutch.bmp (optional country flag)
+</p>
+
+<p>I have a large collection of flags pictures, so ask me before drawing a new
+one.
+</p>
+
+<h3>About the Translator
+</h3>
+
+<p>Three first lines of the message module allow adding the translator details
+and show up in the running program when selecting the language module. You can
+put there whatever you want, including your name, URL, etc.
+</p>
+
+<p>Example:<br>
+Info1=English translation<br>
+Info2=By Mirek Wójtowicz<br>
+Info3=http://www.mirekw.com
+</p>
+
+<p>&nbsp;
+</p>
+
+<p>To install and test the new language module, just copy both .ini and .bmp files into the
+\Lang subfolder, and choose the new language using the Tools/Language option.
+</p>
+
+<p>Please send your language modules to <a href="mailto:translations@mirekw.com">translations@mirekw.com</a>
+if you want to have them included in new releases of the program. Please notice that
+we cannot publish multiple versions for a language, as long as the new version is not an improvement to the existing version.
+</p>
+
+<p>Thank you for your contribution!
+</p>
+
+<p>&nbsp;</p>
+
+</body>
+</html>
